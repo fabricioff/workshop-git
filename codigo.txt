@@ -15,3 +15,7 @@ Adicionando pelo origin
 ---------------------------------
 Inserindo novo texto
 Compartilhando arquivo deste branch para todos usuarem
+
+
+
+Bagunçando o repositorio!!
