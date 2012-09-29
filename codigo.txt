@@ -15,3 +15,4 @@ Adicionando pelo origin
 ---------------------------------
 Inserindo novo texto
 Compartilhando arquivo deste branch para todos usuarem
+Adicionando mais 1 em new feature
