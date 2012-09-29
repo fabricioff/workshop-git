@@ -15,3 +15,6 @@ Só para testar conflitos
 Uma linha para dar conflito
 Um texto maior vai vir aqui!
 Veja só!!
+
+
+Texto inserido a mais no arquivo!!
