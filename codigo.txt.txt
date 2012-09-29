@@ -4,6 +4,8 @@ Essa e mais uma linha
 Ainda outra linha
 Outra linha diferente
 Uma linha intrusa
+Outra linha
+Linha no meio
 E outra
 E ainda outra
 Aqui vai começar o texto
