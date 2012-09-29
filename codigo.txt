@@ -7,6 +7,7 @@ Outra linha
 Testes 4
 
 Teste5
+Aqui vai começar um texto
 Uma linha intrusa
 Outra coisa... adicionando um texto maoir
 Veja uma coisa interessandte
