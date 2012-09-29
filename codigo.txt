@@ -1,6 +1,5 @@
 Teste1
 teste 2
-<<<<<<< HEAD
 teste3
 Outra linha	
 Testes 4
