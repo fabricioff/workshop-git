@@ -4,9 +4,10 @@ teste3
 Outra linha	
 Testes 4
 Teste5
-Aqui vai começar um texto
+Aqui vai comeï¿½ar um texto
 Uma linha intrusa
 Outra coisa... adicionando um texto maoir
 Veja uma coisa interessandte
 Adicionando 1 linha para exercicios
 Outra linha pra exercicio
+Adicionando pelo origin
