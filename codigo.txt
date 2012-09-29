@@ -14,3 +14,4 @@ Adicionado outro pelo exercicio
 Adicionando pelo origin
 ---------------------------------
 Inserindo novo texto
+Compartilhando arquivo deste branch para todos usuarem
